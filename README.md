@@ -1,2 +1,5 @@
-# analog-clock
-Created with CodeSandbox
+# Analog Clock
+
+UI
+
+![Screen shot](./Capture.JPG)
